@@ -11,8 +11,6 @@ int* solution(int start_num, int end_num) {
     for (int i = 0; i < size; i++) {
         answer[i] = start_num - i;
     }
-
-    return answer;
-
+    
     return answer;
 }
